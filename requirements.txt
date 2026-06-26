@@ -1,0 +1,9 @@
+anthropic
+gspread
+google-auth
+pymupdf
+reportlab
+rich
+requests
+beautifulsoup4
+python-dotenv
